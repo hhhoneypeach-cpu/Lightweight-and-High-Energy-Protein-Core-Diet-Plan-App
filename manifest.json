@@ -1,0 +1,20 @@
+{
+  "name": "轻食高能",
+  "short_name": "轻食高能",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFDFB",
+  "theme_color": "#E89E5B",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/diet/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/diet/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
